@@ -2,6 +2,8 @@
 
 The pump board for your inflatable needs. 
 
+![Pumpsy Hero Image](0_0.jpeg)
+
 ## Introduction
 
 Inflating things without control can be annoying, especially when you worked so hard to make that inflatable actuator and then it just explodes. Pumpsy is a smart pump that can prevent that. It allows to set a pressure limit dynamically and it remembers it even after a power-off.
