@@ -1,6 +1,6 @@
 # Pumpsy
 
-The pump board for your inflateble needs. 
+The pump board for your inflatable needs. 
 
 ## Introduction
 
