@@ -2,7 +2,7 @@
 
 The pump board for your inflatable needs. 
 
-![Pumpsy Hero Image](0_0.jpeg)
+![Pumpsy Hero Image](website/media/pumpsy-hero.jpeg)
 
 ## Introduction
 
