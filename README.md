@@ -2,31 +2,21 @@
 
 The pump board for your inflatable needs. 
 
-![Pumpsy Hero Image](docs/media/pumpsy-hero.jpeg)
+![Pumpsy Hero Image](website/media/pumpsy-hero.jpeg)
 
 ## Introduction
 
-Inflating things without control can be annoying, especially when you worked so hard to make that inflatable actuator and then it just explodes. Pumpsy is a smart pump that can prevent that. It allows to set a pressure limit dynamically and it remembers it even after a power-off.
+Inflating things without control can be annoying. Pumpsy is a smart pump that makes prototyping inflatables much more fun. It allows to set a pressure limit dynamically and it remembers it even after a power-off. Among other features...
 
-## OK I Want One
+![Pumpsy Looks Image](website/media/pump-board-both-sides.jpg)
 
-Yes, you can have one more, but you will have to support the project in one way or another. What we offer at the moment is the following.
+## Pumpsy Works
 
-1. Personal Non-Commercial Licensing
-2. Per-Event Licensing
+Pumpsy is simple. One button press to inflate, another one to deflate. Use the rotary encoder to set the pressure limit. Use the display to look at the numbers.
 
-### Personal Non-Commercial Licensing
+## Get Pumpsy
 
-You want to test it first and would like to get your hands on the device. We accept donations, interesting contributions and merch purchases in exchange for access to our design file repository.
+Pumpsy is experimental work in progress and we need you to show interest and support the project. Invite us for a workshop if you want to get your hands on the current version of Pumpsy. You can also show interest and accelerate the development by purchasing our merch!
 
-### Per-Event Licensing
-
-If you like Pumpsy, you would probably want to use it for an event, such as workshop or hackathon. This is possible, and Pumpsy will be a valuable component of your project's way to success! You can make Pumpsy a success by allocating a percentage of your event's revenue to Pumpsy. If you can afford a videographer to document your event, it means you can support Pumpsy!
-
-## Get Started
-
-So you want to get started with Pumpsy? We know you do. Open an issue briefly describing why you need Pumpsy and we will get back to you with further details.
-
-Sincerely,
-
-Pumpsy
+- Buy our merch!
+- Invite us for a workshop!
