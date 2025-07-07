@@ -10,8 +10,37 @@
             font-size: 16px;
         }
 
+        body {
+            padding-top: 2rem;
+        }
+
         img {
             width: 100%;
+        }
+
+        h1 {
+            position: absolute;
+            top: -9999px;
+        }
+
+        header {
+            border-bottom: 1px solid black;
+            padding-bottom: 1rem;
+            margin-bottom: 2rem;
+            position: relative;
+        }
+
+        .cta {
+            position: absolute;
+            top: 15px;
+            left: 0;
+            width: 100%;
+            text-align: right;
+        }
+
+        img.logo {
+            width: 33%;
+            height: auto;
         }
 
         a.btn {
@@ -29,22 +58,39 @@
             padding-left: 1rem;
         }
 
+        a.btn.secondary {
+            background-color:darkslateblue;
+        }
+
         .container {
             max-width: 900px;
             margin-right: auto;
             margin-left: auto;
         }
+
+        @media (max-width: 600px) {
+            img.logo {
+                width: 100%;
+            }
+        }
     </style>
 </head>
 <body>
 
-    <main class="container">
-        <h1>Pumpsy</h1>
-  
-        <p>The pump board for your inflatable needs. Work in progress...</p>
-        <p>Buy our merch to support the project!</p>
+    <header class="container">
+        <div class="align-left">
+            <h1>Pumpsy</h1>
+            <img class="logo" src="media/pumpsy-logo.svg">
+        </div>
 
-        <a class="btn" href="https://bonfire.com/store/pump-with-pumpsy/">Pumpsy Store</a>
+        <div class="cta aligh-right">
+            <a class="btn" href="https://bonfire.com/store/pump-with-pumpsy/">Pumpsy Store</a>
+            <a class="btn secondary" href="https://github.com/pumpsy/pumpsy">GitHub</a>
+        </div>
+    </header>
+
+    <main class="container">  
+        <p>The pump board for your inflatable needs. Work in progress...</p>
 
         <img src="media/pumpsy-hero.jpeg" alt="Pumpsy Hero Image">
     </main>
