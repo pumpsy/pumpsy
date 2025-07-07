@@ -22,3 +22,8 @@ Pumpsy is experimental work in progress and we need you to show interest and sup
 
 - Buy our merch!
 - Invite us for a workshop!
+- Request customization
+
+## Learn More
+
+Visit [our website](https://pumpsy.xyz)!
